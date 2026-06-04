@@ -1,3 +1,9 @@
+#EQUIPO
+CASTRO LUNA CESAR ARMANDO
+ZACARIAS HERNANDEZ ANGEL DAVID
+ZAMORA MARTINEZ KIMBERLY PAOLA DEL ROCIO 
+
+
 # 💻 Sistema de Gestión de Empleados (CRUD) - API REST en Rust
 
 ¡Bienvenido al repositorio del **Sistema de Gestión de Empleados**! Este proyecto es una solución integral para la administración de personal en tiempo real. Cuenta con una arquitectura robusta que combina un backend de alto rendimiento desarrollado en **Rust**, persistencia de datos en **MySQL (XAMPP)**, y un entorno de contenedores optimizado con **Docker** para entornos de despliegue simulados.
